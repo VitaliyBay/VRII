@@ -1,0 +1,27 @@
+.content {
+	background-color: red;
+	margin: 0 10%;
+}
+.box {
+	display: inline-block;
+	background-color: #aeaeae;
+	vertical-align: middle;
+}
+.mini {
+	display: inline-block;
+	background-color: #aeaeae;
+	float: right;
+	vertical-align: middle;
+}
+.logo p {
+	margin-left: 15px;
+	font-size: 24px;
+		vertical-align: middle;
+
+}
+.nav ul li {
+	display: inline-block;
+	margin: 0 15px;
+		vertical-align: middle;
+
+}
